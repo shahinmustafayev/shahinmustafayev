@@ -14,7 +14,7 @@ Contact Me
 
 Stacks
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,php,laravel,mysql,sqlite,js,node,jquery,vue,react,regex&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,php,laravel,mysql,sqlite,js,jquery,vue,react,regex&theme=light)](https://skillicons.dev)
 
 Software & Services
 
