@@ -3,7 +3,7 @@
 Hi! My name is Shahin Mustafayev . I'm a Full Stack Developer . I have 4 year experience working as
 the part of a team and individually . I'm always energetic and eager to learn new skills and a big lover of
 PHP and Laravel framework
-
+ 
 
 Contact Me
 
@@ -14,7 +14,7 @@ Contact Me
 
 Stacks
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,php,laravel,mysql,sqlite,js,jquery,vue,react,regex&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,php,laravel,mysql,sqlite,js,node,jquery,vue,react,regex&theme=light)](https://skillicons.dev)
 
 Software & Services
 
