@@ -2,12 +2,16 @@
 <p align="center">
   <a href="https://github.com/shahinmustafayev"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Software+Developer;Web+Designer;Always+learning+new+things"></a>
 </p>
+
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = "50px"></picture> About me
+
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = "250px"></picture>
+
 <br><br><br>
 - :student: I studied at the university in the field of Information Technologies and Systems Engineering.
 - :technologist: I love using Software as a solution for every `Problem`.
 <br>
+
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
 	<a href="mailto:mustafayev.sahin97@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
