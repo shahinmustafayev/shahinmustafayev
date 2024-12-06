@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://github.com/shahinmustafayev"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Software+Developer;Web+Designer;Always+learning+new+things"></a>
 </p>
-<br>
+<br><br>
 <!-- <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
 	
