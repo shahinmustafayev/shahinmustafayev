@@ -73,88 +73,67 @@
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = "50px">  </picture> Frontend Development
 <p align="center"> 
-  <!-- html -->
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
   </a>   
-  <!-- css -->
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
   </a> 
-  <!-- SASS -->
   &emsp;
    <a href="https://sass-lang.com/" target="_blank">
      <img alt="SASS" src="https://img.shields.io/badge/Sass-%23CC6699.svg?style=plastic&logo=sass&logoColor=white">
    </a>
-   <!-- Js -->
    &emsp;
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
       <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
     </a>
-    <!-- React JS -->
   &emsp;
   <a href="https://www.react.dev" target="_blank">
     <img alt="React" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
   </a>
-  <!-- Vue Js -->
   &emsp;
   <a href="https://vuejs.org/" target="_blank"> 
      <img alt="VueJS" src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=plastic&logo=vue.js&logoColor=white">
    </a>
-  <!-- Jquery -->
   &emsp;
   <a href="https://jquery.com/" target="_blank"> 
      <img alt="Jquery" src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white">
    </a>
-   <!-- Ajax -->
   &emsp;
   <a href="https://www.w3schools.com/js/js_ajax_intro.asp" target="_blank"> 
      <img alt="Ajax" src="https://img.shields.io/badge/AJAX-%23000000.svg?style=plastic&logo=html5&logoColor=white">
    </a>
-   
-
 </p>
-
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = "50px">  </picture> Backend Development
 <p align="center"> 
-  
   &emsp;
   <a href="https://laravel.com/" target="_blank"> 
     <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white">
   </a>
-
   &emsp;
   <a href="https://lumen.laravel.com/docs/11.x" target="_blank"> 
     <img alt="Lumen" src="https://img.shields.io/badge/Lumen-%23F4645F.svg?style=plastic&logo=lumen&logoColor=white">
   </a>
-
-  <!-- node js -->
   &emsp; 
   <a href="https://nodejs.org/en" target="_blank"> 
     <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-%23339933.svg?style=plastic&logo=nodedotjs&logoColor=white">
   </a>   
-
   &emsp;
   <a href="https://expressjs.com/" target="_blank"> 
     <img alt="ExpressJs" src="https://img.shields.io/badge/Express.js-%23000000.svg?style=plastic&logo=express&logoColor=white">
   </a>
-
   &emsp;
   <a href="https://www.codeigniter.com/" target="_blank"> 
     <img alt="Codeignither" src="https://img.shields.io/badge/CodeIgniter-%23EE4623.svg?style=plastic&logo=codeigniter&logoColor=white">
   </a>
-
   &emsp;
   <a href="https://www.mysql.com/" target="_blank"> 
     <img alt="MySql" src="https://img.shields.io/badge/MySQL-%2300A4DD.svg?style=plastic&logo=mysql&logoColor=white">
   </a>
-
 </p>
-
-
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = "50px">  </picture> Software & Tools
  
@@ -180,7 +159,6 @@
     <a href="#"><img alt="PhpStorm" src="https://img.shields.io/badge/PhpStorm-%233A5A99.svg?style=plastic&logo=phpstorm&logoColor=white" /></a>
   &emsp;
     <a href="#"><img alt="PhpStorm" src="https://img.shields.io/badge/WebStorm-%23000000.svg?style=plastic&logo=webstorm&logoColor=white" /></a>
-
 </p>
 
 <br> 
