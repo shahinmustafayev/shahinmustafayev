@@ -163,8 +163,6 @@
 
 <br> 
 </details>
-
-</br></br>
 	
 ## 🐍 A Snake Eating my Contributions Graph
 	
