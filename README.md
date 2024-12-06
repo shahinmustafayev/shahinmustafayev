@@ -61,12 +61,10 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
-
   &emsp;
   <a href="https://www.w3schools.com/sql/" target="_blank"> 
     <img alt="Sql" src="https://img.shields.io/badge/SQL-%2300758F.svg?style=plastic&logo=sqlite&logoColor=white">
   </a>
-
   &emsp;
    <a href="https://www.postgresql.org/" target="_blank">
     <img alt="Postgresql" src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=plastic&logo=postgresql&logoColor=white">
